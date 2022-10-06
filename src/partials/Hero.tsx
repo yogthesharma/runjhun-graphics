@@ -21,7 +21,7 @@ const Hero = () => (
           Hi there, I'm <GradientText>Yog Sharma</GradientText> 👋
           <br />
           <p className="text-xl font-semibold leading-loose">
-            I am building things for web.
+            I build things for web.
           </p>
         </>
       }
@@ -50,9 +50,9 @@ const Hero = () => (
             <h2 className="mb-4 text-2xl font-semibold">
               Some technologies I like to work with:
             </h2>
-            <div className="grid w-1/2 grid-cols-2 grid-rows-3">
+            <div className="grid w-2/3 grid-cols-2 grid-rows-3 md:w-1/2">
               {TECHNOLOGIES.map((tech) => (
-                <span className="mb-2 flex items-center">
+                <span key={tech} className="mb-2 flex items-center">
                   <div className="mr-3  inline-block w-2 overflow-hidden">
                     <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
                   </div>{' '}

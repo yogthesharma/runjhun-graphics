@@ -10,7 +10,7 @@ const ProjectList = () => (
   <Section
     title={
       <>
-        Recent <GradientText>Projects</GradientText>
+        Some <GradientText>Projects</GradientText> That I Worked On
       </>
     }
   >
