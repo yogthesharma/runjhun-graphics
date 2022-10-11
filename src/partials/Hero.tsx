@@ -76,7 +76,7 @@ const Hero = () => (
           <a
             className="mt-4 border border-cyan-400 py-2 px-6 font-semibold text-cyan-400 transition hover:bg-cyan-400 hover:text-black"
             target="__blank"
-            href="/public/assets/resume/Resume.pdf"
+            href="/assets/resume/Resume.pdf"
           >
             Resume
           </a>
