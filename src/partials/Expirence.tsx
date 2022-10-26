@@ -13,7 +13,7 @@ const TABSANDINFO = [
         </span>
         <ul className="font-light">
           <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-2 overflow-hidden">
+            <div className="mr-3  inline-block w-6 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             Built various ui Reusable components in React used across
@@ -21,7 +21,7 @@ const TABSANDINFO = [
             gathered from the product team.
           </li>
           <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-2 overflow-hidden">
+            <div className="mr-3  inline-block w-6 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             Improved user experience and accomplish webpage objectives by
@@ -29,7 +29,7 @@ const TABSANDINFO = [
             integraton.
           </li>
           <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-2 overflow-hidden">
+            <div className="mr-3  inline-block w-6 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             Built stable and maintainable codebases using React.
@@ -52,20 +52,20 @@ const TABSANDINFO = [
         </span>
         <ul className="font-light">
           <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-2 overflow-hidden">
+            <div className="mr-3 inline-block w-6 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             Wrote and maintained a new functionality for the product that was
             successfully implemented in production.
           </li>
           <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-2 overflow-hidden">
+            <div className="mr-3 inline-block  w-6 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             Improved product UI using HTML,CSS, JavaScript and TypeScript.
           </li>
           <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-2 overflow-hidden">
+            <div className="mr-3 inline-block  w-6 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             Improved the code structure, Built reusable functions.
