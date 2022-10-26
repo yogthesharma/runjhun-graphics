@@ -13,7 +13,7 @@ const TABSANDINFO = [
         </span>
         <ul className="font-light">
           <li className="mb-2 flex items-start">
-            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden">
+            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden md:w-1">
               <div className="h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             <div className="w-11/12">
@@ -23,7 +23,7 @@ const TABSANDINFO = [
             </div>
           </li>
           <li className="mb-2 flex items-start">
-            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden">
+            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden md:w-1">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             <div className="w-11/12">
@@ -33,7 +33,7 @@ const TABSANDINFO = [
             </div>
           </li>
           <li className="mb-2 flex items-start">
-            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden">
+            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden md:w-1">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             <div className="w-11/12">
@@ -58,7 +58,7 @@ const TABSANDINFO = [
         </span>
         <ul className="font-light">
           <li className="mb-2 flex items-start">
-            <div className="mt-2 mr-2 inline-block w-3 overflow-hidden">
+            <div className="mt-2 mr-2 inline-block w-3 overflow-hidden md:w-1">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             <div className="w-11/12">
@@ -67,7 +67,7 @@ const TABSANDINFO = [
             </div>
           </li>
           <li className="mb-2 flex items-start">
-            <div className="mr-3 mt-2 inline-block  w-3 overflow-hidden">
+            <div className="mr-3 mt-2 inline-block w-3 overflow-hidden md:w-1">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             <div className="w-11/12">
@@ -75,7 +75,7 @@ const TABSANDINFO = [
             </div>
           </li>
           <li className="mb-2 flex items-start">
-            <div className="mr-3 mt-2 inline-block  w-3 overflow-hidden">
+            <div className="mr-3 mt-2 inline-block w-3 overflow-hidden md:w-1">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
             <div className="w-11/12">
