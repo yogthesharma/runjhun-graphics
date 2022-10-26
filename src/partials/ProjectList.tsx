@@ -24,12 +24,12 @@ const ProjectList = () => (
           alt: 'Project Web Design',
         }}
         category={
-          <>
+          <div className="flex items-center justify-center">
             <Tags color={ColorTags.FUCHSIA}>Next.js</Tags>
             <Tags color={ColorTags.LIME}>Web design</Tags>
             <Tags color={ColorTags.SKY}>Styled Components</Tags>
             <Tags color={ColorTags.ROSE}>Strapi.js</Tags>
-          </>
+          </div>
         }
       />
     </div>
