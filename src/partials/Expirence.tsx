@@ -12,27 +12,33 @@ const TABSANDINFO = [
           <GradientText>Jan 2021 - Jun 2021</GradientText>
         </span>
         <ul className="font-light">
-          <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-6 overflow-hidden">
-              <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
+          <li className="mb-2 flex items-start">
+            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden">
+              <div className="h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
-            Built various ui Reusable components in React used across
-            applications and quickly built various prototypes with information
-            gathered from the product team.
+            <div className="w-11/12">
+              Built various ui Reusable components in React used across
+              applications and quickly built various prototypes with information
+              gathered from the product team.
+            </div>
           </li>
-          <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-6 overflow-hidden">
+          <li className="mb-2 flex items-start">
+            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
-            Improved user experience and accomplish webpage objectives by
-            creating site structure, navigation, page optimization and graphics
-            integraton.
+            <div className="w-11/12">
+              Improved user experience and accomplish webpage objectives by
+              creating site structure, navigation, page optimization and
+              graphics integraton.
+            </div>
           </li>
-          <li className="mb-2 flex items-center">
-            <div className="mr-3  inline-block w-6 overflow-hidden">
+          <li className="mb-2 flex items-start">
+            <div className="mr-3 mt-2  inline-block w-3 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
-            Built stable and maintainable codebases using React.
+            <div className="w-11/12">
+              Built stable and maintainable codebases using React.
+            </div>
           </li>
         </ul>
       </div>
@@ -51,24 +57,30 @@ const TABSANDINFO = [
           <GradientText>Jul 2021 - Present</GradientText>
         </span>
         <ul className="font-light">
-          <li className="mb-2 flex items-center">
-            <div className="mr-3 inline-block w-6 overflow-hidden">
+          <li className="mb-2 flex items-start">
+            <div className="mt12 mr-2 inline-block w-3 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
-            Wrote and maintained a new functionality for the product that was
-            successfully implemented in production.
+            <div className="w-11/12">
+              Wrote and maintained a new functionality for the product that was
+              successfully implemented in production.
+            </div>
           </li>
-          <li className="mb-2 flex items-center">
-            <div className="mr-3 inline-block  w-6 overflow-hidden">
+          <li className="mb-2 flex items-start">
+            <div className="mr-3 mt-2 inline-block  w-3 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
-            Improved product UI using HTML,CSS, JavaScript and TypeScript.
+            <div className="w-11/12">
+              Improved product UI using HTML,CSS, JavaScript and TypeScript.
+            </div>
           </li>
-          <li className="mb-2 flex items-center">
-            <div className="mr-3 inline-block  w-6 overflow-hidden">
+          <li className="mb-2 flex items-start">
+            <div className="mr-3 mt-2 inline-block  w-3 overflow-hidden">
               <div className=" h-4  origin-top-left rotate-45 bg-cyan-400"></div>
             </div>{' '}
-            Improved the code structure, Built reusable functions.
+            <div className="w-11/12">
+              Improved the code structure, Built reusable functions.
+            </div>
           </li>
         </ul>
       </div>
