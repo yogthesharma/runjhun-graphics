@@ -6,7 +6,7 @@ const TABSANDINFO = [
     info: (
       <div>
         <h2 className="text-lg">
-          Software Developer Intern <GradientText>@Uibix</GradientText>
+          Frontend Developer Intern <GradientText>@Uibix</GradientText>
         </h2>
         <span className="my-3 block text-xs text-blue-400">
           <GradientText>Jan 2021 - Jun 2021</GradientText>
@@ -50,8 +50,7 @@ const TABSANDINFO = [
     info: (
       <div>
         <h2 className="text-lg">
-          Software Developer Intern{' '}
-          <GradientText>@IQM Corporation</GradientText>
+          Frontend Developer <GradientText>@IQM Corporation</GradientText>
         </h2>
         <span className="my-3 block text-xs text-blue-400">
           <GradientText>Jul 2021 - Present</GradientText>
