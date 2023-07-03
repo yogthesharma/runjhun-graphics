@@ -1,8 +1,8 @@
 export const AppConfig = {
-  site_name: 'Yog Sharma | Frontend Developer',
-  title: 'Yog Sharma | Frontend Developer',
-  description: 'Portfolio website of Yog Sharma(Frontend Developer)',
-  author: 'Yog Sharma',
+  site_name: 'Runjhun Sharma | UI/UX Designer',
+  title: 'Runjhun Sharma | UI/UX Designer',
+  description: 'Portfolio website of Runjhun Sharma(UI/UX Designer)',
+  author: 'Runjhun Sharma',
   locale_region: 'en-us',
   locale: 'en',
 };

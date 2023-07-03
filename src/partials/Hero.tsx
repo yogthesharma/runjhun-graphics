@@ -5,12 +5,10 @@ import {
 } from 'astro-boilerplate-components';
 
 const TECHNOLOGIES = [
-  'React',
-  'Svelte',
-  'Nodejs',
-  'Typescript',
-  'Javascript',
-  'Solidity',
+  'Figma',
+  'Photoshop',
+  'Responsive Design',
+  'UX First Approach',
 ];
 
 const Hero = () => (
@@ -18,33 +16,25 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Yog Sharma</GradientText> 👋
+          Hi there, I'm <GradientText>Runjhun Sharma</GradientText> 👋
           <br />
           <p className="text-xl font-semibold leading-loose">
-            I build things for web.
+            I create intuitive and visually appealing user experiences.
           </p>
         </>
       }
       description={
         <>
           <p className="text-lg font-light leading-8">
-            I am an excellent developer as long as I am getting my coffee on
-            time. I have hands on expirence in Web2 technologies, I'm trying to
-            simplify Web3. Open for any collaboration and discussion.
+            I am a passionate UI/UX designer dedicated to creating engaging and
+            delightful user experiences. With a keen eye for aesthetics and a
+            deep understanding of user-centered design principles, I strive to
+            craft visually stunning interfaces that are intuitive and easy to
+            use. I believe in the power of design to solve problems and enhance
+            the way people interact with digital products. I am constantly
+            exploring the latest design trends and technologies to stay at the
+            forefront of the industry.
             <br />
-          </p>
-          <p className="text-lg leading-8">
-            If you're fabricating something awesome, I'd love to hear about it.
-            Even if you're not and just want to hang out and chill, just
-            schedule a{' '}
-            <a
-              target="__blank"
-              className="text-cyan-400 hover:underline"
-              href="https://calendly.com/yogthesharma/30min"
-            >
-              call
-            </a>
-            .{' '}
           </p>
           <div className="mt-6">
             <h2 className="mb-4 text-2xl font-semibold">

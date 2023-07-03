@@ -28,19 +28,19 @@ const Navbar = () => (
               <path d="M4 20h14"></path>
             </svg>
           }
-          name="Yog Sharma"
+          name="Runjhun Sharma"
         />
       </a>
 
       <NavMenu>
-        <NavMenuItem href="https://www.linkedin.com/in/yogthesharma/">
+        <NavMenuItem href="https://www.linkedin.com/in/runjhun-graphics/">
           LinkedIn
         </NavMenuItem>
-        <NavMenuItem href="https://www.github.com/yogthesharma/">
-          GitHub
+        <NavMenuItem href="https://www.behance.net/runjhunsharma1">
+          Behance
         </NavMenuItem>
-        <NavMenuItem href="https://www.twitter.com/yogsharma10/">
-          Twitter
+        <NavMenuItem href="mailto:runjhunsharma210802@gmail.com">
+          Contact Me
         </NavMenuItem>
       </NavMenu>
     </NavbarTwoColumns>
